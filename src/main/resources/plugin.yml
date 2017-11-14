@@ -1,0 +1,4 @@
+name: DisableElytraRepair
+main: net.guvernator.bukkit.DisableElytraRepair.Main
+description: Disable Elytra repair by crafting
+version: ${project.version}
